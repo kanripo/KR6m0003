@@ -1,25 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:52:56.330985
+#+DATE: 2015-08-30 20:52:57.957301
 #+TITLE: 順中論
 #+PROPERTY: CBETA_ID T30n1565
 #+PROPERTY: ID KR6m0003
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 30, No. 1565
 #+PROPERTY: VOL 30
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6m0003_T_000-0039c>¶¶¶
 #+PROPERTY: LASTPB <pb:KR6m0003_T_001-0039c> ¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1565[cf.Nos.1564,1566,1567]¶
+No. 1565 [cf. Nos. 1564, 1566, 1567]¶
 
-初品法門翻譯之記
-:PROPERTIES:
-:head: 《順中論義入大般若波羅蜜經》¶
-初品法門翻譯之記
-:END:
-¶
+《順中論義入大般若波羅蜜經》¶
+初品法門翻譯之記¶
 ¶
 
 諸國語言。中天音正。彼言那伽夷離淳那。此¶
@@ -27,14 +23,13 @@ No.1565[cf.Nos.1564,1566,1567]¶
 一廂。未是全當。龍勝菩薩通法之師。依大¶
 般若。而造中論眾典。於義包而不悉。大乘論¶
 師。名阿僧佉。解未解處。別為此部。魏尚書令¶
-儀同高公𨒌國上賓瞿曇流支。在第供養。¶
+儀同高公[這-言+正]國上賓瞿曇流支。在第供養。¶
 正通佛法。對釋曇林。出斯義論。武定元年歲¶
 次癸亥八月十日揮辭丙寅凡有一萬三千¶
 七百二十七字。¶
 ¶
 ¶
-
- 《順中論義入大般若波羅蜜經》¶
+《順中論義入大般若波羅蜜經》¶
 初品法門卷上¶
 ¶
 龍勝菩薩造　無着菩薩釋¶

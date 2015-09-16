@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:52:56.359903
+#+DATE: 2015-08-30 20:52:57.985253
 #+TITLE: 順中論
 #+PROPERTY: CBETA_ID T30n1565
 #+PROPERTY: ID KR6m0003
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 30, No. 1565
 #+PROPERTY: VOL 30
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6m0003_T_000-0039c>¶¶¶
 #+PROPERTY: LASTPB <pb:KR6m0003_T_002-0044c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
 ¶
-
- 《順中論義入大般若波羅蜜經》初¶
+《順中論義入大般若波羅蜜經》初¶
 品法門卷下¶
 ¶
 龍勝菩薩造　無著菩薩釋¶
